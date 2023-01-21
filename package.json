@@ -1,0 +1,27 @@
+{
+  "name": "adeeb_portfolio",
+  "version": "1.0.0",
+  "description": "This is the personal portfolio of Adeeb Khan.",
+  "main": "app.js",
+  "scripts": {
+    "nodemon": "nodemon app.js"
+  },
+  "keywords": [
+    "awesome"
+  ],
+  "author": "Adeeb Khan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "build": "^0.1.4",
+    "express": "^4.18.1",
+    "firebase": "^9.8.4",
+    "firebase-tools": "^11.1.0",
+    "fs": "0.0.1-security",
+    "mongoose": "^6.4.0",
+    "nodemailer": "^6.7.5",
+    "nodemon": "^2.0.18",
+    "path": "^0.12.7",
+    "pug": "^3.0.2"
+  }
+}
